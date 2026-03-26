@@ -13,4 +13,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0126-word-ladder-ii) |
+## String
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0126-word-ladder-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0126-word-ladder-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
