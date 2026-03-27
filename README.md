@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0215-kth-largest-element-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
@@ -49,4 +50,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
