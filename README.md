@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0324-wiggle-sort-ii) |
+| [0523-continuous-subarray-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0523-continuous-subarray-sum) |
 | [2404-most-frequent-even-element](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2404-most-frequent-even-element) |
 ## String
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0523-continuous-subarray-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0229-majority-element-ii) |
 | [2404-most-frequent-even-element](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2404-most-frequent-even-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
