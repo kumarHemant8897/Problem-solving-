@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2059-minimum-operations-to-convert-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2059-minimum-operations-to-convert-number) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2404-most-frequent-even-element) |
 ## Divide and Conquer
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
