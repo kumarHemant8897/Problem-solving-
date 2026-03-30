@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0918-maximum-sum-circular-subarray) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2059-minimum-operations-to-convert-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2059-minimum-operations-to-convert-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0324-wiggle-sort-ii) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
