@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0169-majority-element) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0118-pascals-triangle) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Hash Table
 |  |
