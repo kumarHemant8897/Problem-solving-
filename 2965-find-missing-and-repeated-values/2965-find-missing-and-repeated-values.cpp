@@ -11,8 +11,8 @@ public:
             }
         }
 
-        int rep=-1;
-        int mis=-1;
+        int rep=1;
+        int mis=1;
 
         for(int i=1;i<=n*m;i++){
             if(mp[i]==0) mis=i;
