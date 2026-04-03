@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0918-maximum-sum-circular-subarray) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0540-single-element-in-a-sorted-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Bit Manipulation
@@ -194,4 +197,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0347-top-k-frequent-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
