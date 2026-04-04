@@ -1,23 +1,18 @@
 class Solution {
 public:
     int mySqrt(int x) {
-        long long l = 0, r = x;
-        int ans = 0;
+        long long st = 0, end = x;
 
-        while (l <= r) {
-            long long mid = l + (r - l) / 2;
+        while (st <= end) {
+            long long mid = st + (end - st) / 2;
 
-            if (mid * mid == x) {
-                return mid;
-            }
-            else if (mid * mid < x) {
-                ans = mid;     
-                l = mid + 1;    
+            if (mid * mid <= x) {
+                st = mid + 1;
             }
             else {
-                r = mid - 1;    
+                end = mid - 1;
             }
         }
-        return ans;
+        return end; 
     }
 };
