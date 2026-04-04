@@ -15,6 +15,8 @@ public:
             if(nums[st]==nums[mid] && nums[mid]==nums[end]){
                 st++;
                 end--;
+
+                continue;
             }
 
 
