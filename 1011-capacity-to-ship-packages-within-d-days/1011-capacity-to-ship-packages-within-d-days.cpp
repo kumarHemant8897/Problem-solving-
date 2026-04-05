@@ -34,7 +34,7 @@ public:
         
         int st=maxelem;
         int end=sum;
-        int ans=0;
+        int ans=sum;
 
         while(st<=end){
             int mid=st+(end-st)/2;
