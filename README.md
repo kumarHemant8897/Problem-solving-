@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0240-search-a-2d-matrix-ii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2965-find-missing-and-repeated-values](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2965-find-missing-and-repeated-values) |
