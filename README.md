@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0523-continuous-subarray-sum) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0287-find-the-duplicate-number) |
@@ -277,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0493-reverse-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
