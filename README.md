@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0126-word-ladder-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0126-word-ladder-ii) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [2059-minimum-operations-to-convert-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2059-minimum-operations-to-convert-number) |
 ## Sorting
 |  |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -303,4 +305,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0559-maximum-depth-of-n-ary-tree) |
 <!---LeetCode Topics End-->
