@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0118-pascals-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0410-split-array-largest-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Hash Table
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Binary Tree
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0559-maximum-depth-of-n-ary-tree) |
 <!---LeetCode Topics End-->
