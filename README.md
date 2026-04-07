@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2404-most-frequent-even-element](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2951-find-the-peaks](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Divide and Conquer
@@ -317,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0559-maximum-depth-of-n-ary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
