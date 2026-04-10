@@ -11,28 +11,12 @@
  */
 class Solution {
 public:
-
- void preorder(TreeNode* root,vector<int> & ans){
-    if(root==NULL){
-        return ;
-    }
-
-    ans.push_back(root->val);
-    preorder(root->left,ans);
-    preorder(root->right,ans);
- }
-
-
-
     int countNodes(TreeNode* root) {
-        vector<int> ans;
         if(root==NULL){
-            return ans.size();
+            return 0;
         }
-        preorder(root,ans);
-        
-        return ans.size();
-        
+
+        return 1+countNodes(root->left)+countNodes(root->right);
         
     }
 };
