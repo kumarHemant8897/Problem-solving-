@@ -15,14 +15,14 @@ public:
             return root;
         }
 
-        if(p->val==root->val || q->val==root->val){
+        if(p->val == root->val || q->val==root->val){
             return root;
         }
 
         TreeNode* left=lowestCommonAncestor(root->left,p,q);
         TreeNode* right=lowestCommonAncestor(root->right,p,q);
 
-        if(left == NULL){
+        if(left==NULL){
             return right;
         }
         else if(right==NULL){
@@ -31,7 +31,6 @@ public:
         else{
             return root;
         }
-
         
     }
 };
