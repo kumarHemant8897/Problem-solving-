@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0523-continuous-subarray-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2965-find-missing-and-repeated-values) |
@@ -436,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
