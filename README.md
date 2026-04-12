@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2951-find-the-peaks](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2965-find-missing-and-repeated-values) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Divide and Conquer
