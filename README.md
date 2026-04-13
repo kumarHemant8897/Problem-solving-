@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0231-power-of-two) |
 ## Tree
 |  |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0203-remove-linked-list-elements](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0237-delete-node-in-a-linked-list) |
 ## Stack
 |  |
