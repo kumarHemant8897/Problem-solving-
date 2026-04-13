@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0237-delete-node-in-a-linked-list) |
 ## Stack
 |  |
 | ------- |
