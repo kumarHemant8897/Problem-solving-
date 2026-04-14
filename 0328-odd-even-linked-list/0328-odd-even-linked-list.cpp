@@ -11,48 +11,25 @@
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
-        vector<int> arr;
-        ListNode* temp=head;
-        if(head==NULL){
+        if(head==NULL || head->next ==NULL){
             return head;
         }
 
-       while(temp != NULL){
-        arr.push_back(temp->val);
-        if(temp->next != NULL){
-            temp=temp->next->next;
-        }
-        else{
-            break;
-        }
-       }
+        ListNode* odd=head;
+        ListNode* even=head->next;
+        ListNode* firsteven=head->next;
 
+        while(even != NULL && even->next != NULL){
+            odd->next=odd->next->next;
+            even->next=even->next->next;
 
-       temp=head->next;
-
-
-        while(temp != NULL){
-        arr.push_back(temp->val);
-        if(temp->next !=NULL){
-            temp=temp->next->next;
-        }
-        else{
-            break;
-        }
-       }
-
-
-
-
-
-        temp = head;
-        int i = 0;
-        while(temp != NULL){
-            temp->val = arr[i++];
-            temp = temp->next;
+            odd=odd->next;
+            even=even->next;
         }
 
+        odd->next=firsteven;
         return head;
+        
         
     }
 };
