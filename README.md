@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0347-top-k-frequent-elements) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0455-assign-cookies) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0319-bulb-switcher) |
