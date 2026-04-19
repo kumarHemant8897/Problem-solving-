@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1472-design-browser-history](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1472-design-browser-history) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0707-design-linked-list) |
+| [1472-design-browser-history](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1472-design-browser-history) |
 ## Linked List
 |  |
 | ------- |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0707-design-linked-list) |
+| [1472-design-browser-history](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1472-design-browser-history](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1472-design-browser-history) |
 ## Brainteaser
 |  |
 | ------- |
@@ -514,4 +518,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1472-design-browser-history](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
