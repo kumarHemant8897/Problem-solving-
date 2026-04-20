@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0189-rotate-array) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0191-number-of-1-bits) |
