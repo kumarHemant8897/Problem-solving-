@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2404-most-frequent-even-element](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2733-neither-minimum-nor-maximum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2733-neither-minimum-nor-maximum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2951-find-the-peaks](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2965-find-missing-and-repeated-values) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2733-neither-minimum-nor-maximum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
