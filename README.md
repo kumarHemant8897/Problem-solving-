@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1306-jump-game-iii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1306-jump-game-iii) |
 | [1472-design-browser-history](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1472-design-browser-history) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1552-magnetic-force-between-two-balls) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1306-jump-game-iii) |
 | [2059-minimum-operations-to-convert-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2059-minimum-operations-to-convert-number) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1306-jump-game-iii) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Enumeration
