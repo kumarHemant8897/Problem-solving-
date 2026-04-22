@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2404-most-frequent-even-element](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2404-most-frequent-even-element) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2733-neither-minimum-nor-maximum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2733-neither-minimum-nor-maximum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0657-robot-return-to-origin](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0657-robot-return-to-origin) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2446-determine-if-two-events-have-conflict) |
 | [3340-check-balanced-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3340-check-balanced-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Backtracking
