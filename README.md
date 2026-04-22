@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0713-subarray-product-less-than-k) |
+| [0860-lemonade-change](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0918-maximum-sum-circular-subarray) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0324-wiggle-sort-ii) |
 | [0410-split-array-largest-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0860-lemonade-change) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Counting
 |  |
