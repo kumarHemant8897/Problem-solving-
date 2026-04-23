@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1710-maximum-units-on-a-truck](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1552-magnetic-force-between-two-balls) |
+| [1710-maximum-units-on-a-truck](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2733-neither-minimum-nor-maximum) |
 ## Heap (Priority Queue)
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0860-lemonade-change) |
+| [1710-maximum-units-on-a-truck](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1710-maximum-units-on-a-truck) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Counting
 |  |
