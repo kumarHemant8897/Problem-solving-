@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Hash Table
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0657-robot-return-to-origin](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0678-valid-parenthesis-string) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2446-determine-if-two-events-have-conflict) |
 | [3340-check-balanced-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3340-check-balanced-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0860-lemonade-change) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Counting
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0173-binary-search-tree-iterator) |
+| [0678-valid-parenthesis-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1472-design-browser-history](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1472-design-browser-history) |
 ## Brainteaser
