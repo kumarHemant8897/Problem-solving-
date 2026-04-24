@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0126-word-ladder-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0126-word-ladder-ii) |
 | [0242-valid-anagram](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0257-binary-tree-paths) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0220-contains-duplicate-iii) |
 | [0713-subarray-product-less-than-k](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0713-subarray-product-less-than-k) |
