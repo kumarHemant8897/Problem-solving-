@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0523-continuous-subarray-sum) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0126-word-ladder-ii) |
+| [0242-valid-anagram](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0657-robot-return-to-origin](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0657-robot-return-to-origin) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0347-top-k-frequent-elements) |
