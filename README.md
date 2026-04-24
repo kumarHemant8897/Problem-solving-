@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0523-continuous-subarray-sum) |
 | [1922-count-good-numbers](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1922-count-good-numbers) |
 | [2119-a-number-after-a-double-reversal](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2119-a-number-after-a-double-reversal) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2965-find-missing-and-repeated-values) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Binary Search
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0657-robot-return-to-origin) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Matrix
 |  |
 | ------- |
