@@ -21,9 +21,9 @@ public:
             long long totalHrs = speed(piles, mid);
 
             if (totalHrs <= h) {
-                end = mid - 1;   // ✅ correct
+                end = mid - 1;   
             } else {
-                st = mid + 1;   // ✅ correct
+                st = mid + 1;  
             }
         }
 
