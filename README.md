@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0493-reverse-pairs) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0678-valid-parenthesis-string) |
