@@ -16,14 +16,16 @@ public:
 
     while(j<n && days[j] < days[idx]+7){
         j++;
-        cost7= costs[1] + solve(j,days,costs,dp);
     }
+    cost7= costs[1] + solve(j,days,costs,dp);
+
+
 
     j=idx;
     while(j<n && days[j] < days[idx]+30){
         j++;
-        cost30 = costs[2] +  solve(j,days,costs,dp);
     }
+    cost30 = costs[2] +  solve(j,days,costs,dp);
 
     dp[idx]= min({cost1, cost7, cost30});
     return dp[idx];
