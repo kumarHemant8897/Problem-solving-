@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1903-largest-odd-number-in-string) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2446-determine-if-two-events-have-conflict) |
 | [3340-check-balanced-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3340-check-balanced-string) |
+| [3407-substring-matching-pattern](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3407-substring-matching-pattern) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Backtracking
 |  |
@@ -724,4 +725,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## String Matching
+|  |
+| ------- |
+| [3407-substring-matching-pattern](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3407-substring-matching-pattern) |
 <!---LeetCode Topics End-->
