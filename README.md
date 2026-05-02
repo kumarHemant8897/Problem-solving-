@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0126-word-ladder-ii) |
