@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0788-rotated-digits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0918-maximum-sum-circular-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0983-minimum-cost-for-tickets) |
 | [1143-longest-common-subsequence](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1143-longest-common-subsequence) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0523-continuous-subarray-sum) |
+| [0788-rotated-digits](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0788-rotated-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1922-count-good-numbers) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
