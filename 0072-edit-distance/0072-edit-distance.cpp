@@ -35,6 +35,6 @@ public:
    }
 
    int minDistance(string word1, string word2) {
-        return solve(word1, word2); // ✅ no +1
+        return solve(word1, word2); 
    }
 };
