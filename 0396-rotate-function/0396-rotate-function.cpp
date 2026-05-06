@@ -8,12 +8,12 @@ public:
         for(int i=0;i<n;i++){
             sum+=nums[i];
 
-            f+= 1LL * i * nums[i];
+            f+=i * nums[i];
         }
 
         long long ans=f;
         for(int k=1;k<n;k++){
-            f=f+sum-1LL * n* nums[n-k];
+            f=f+sum-  n* nums[n-k];
             ans=max(ans,f);
         }
         return ans;
