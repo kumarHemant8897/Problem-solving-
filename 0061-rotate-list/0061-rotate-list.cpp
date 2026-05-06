@@ -11,11 +11,11 @@ public:
             tail = tail->next;
         }
 
-        tail->next = head;   // make circular
+        tail->next = head;   
 
         k = k % len;
         if (k == 0) {
-            tail->next = NULL;   // 🔥 FIX: break circle
+            tail->next = NULL;   
             return head;
         }
 
