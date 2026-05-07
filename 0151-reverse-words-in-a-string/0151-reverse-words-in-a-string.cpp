@@ -1,32 +1,33 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        vector<string> words;
-        int n = s.size();
-        int i = 0;
+        int n=s.size();
+        vector<string> ans;
+        int i=n-1;
 
-        while (i < n) {
-            // skip spaces
-            while (i < n && s[i] == ' ') i++;
-            if (i >= n) break;
+        string result="";
 
-            // collect one word
-            int j = i;
-            while (j < n && s[j] != ' ') j++;
-            words.push_back(s.substr(i, j - i));
-            i = j;
+        while( i  >= 0){
+            while( i >=0 && s[i]==' '){
+                i--;
+            }
+
+            if(i<0) break;
+            
+            int end=i;
+
+            while(i >= 0  && s[i] != ' '){
+                i--;
+            }
+
+            string word=s.substr(i+1, end-i);
+            if(!result.empty()) result +=' ';
+            result += word;
+
+
         }
 
-        // reverse the order of words
-        reverse(words.begin(), words.end());
-
-        // join with single spaces
-        string ans = "";
-        for (int k = 0; k < words.size(); k++) {
-            if (k > 0) ans += " ";
-            ans += words[k];
-        }
-
-        return ans;
+        return result;
+        
     }
 };
