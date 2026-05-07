@@ -16,7 +16,7 @@ public:
             int x = nums[i];
             int y = nums[n-1-i];
 
-            // prefix maximum
+            
             prefMax[i] = max(prefMax[i-1], x);
 
             // suffix minimum
