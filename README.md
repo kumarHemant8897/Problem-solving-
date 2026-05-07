@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3523-make-array-non-decreasing](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3523-make-array-non-decreasing) |
+| [3660-jump-game-ix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3660-jump-game-ix) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Divide and Conquer
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1143-longest-common-subsequence) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2707-extra-characters-in-a-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2707-extra-characters-in-a-string) |
+| [3660-jump-game-ix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3660-jump-game-ix) |
 ## Hash Table
 |  |
 | ------- |
