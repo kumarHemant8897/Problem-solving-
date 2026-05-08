@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0322-coin-change) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1020-number-of-enclaves) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2685-count-the-number-of-complete-components) |
 ## Bucket Sort
@@ -667,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
