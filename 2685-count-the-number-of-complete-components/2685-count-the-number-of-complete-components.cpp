@@ -21,8 +21,7 @@ public:
         }
     }
 
-    int countCompleteComponents(int n,
-                                vector<vector<int>>& edges) {
+    int countCompleteComponents(int n, vector<vector<int>>& edges) {
 
         
         vector<int> adj[n];
