@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1901-find-a-peak-element-ii) |
+| [1992-find-all-groups-of-farmland](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1992-find-all-groups-of-farmland) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2059-minimum-operations-to-convert-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2059-minimum-operations-to-convert-number) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1306-jump-game-iii) |
+| [1992-find-all-groups-of-farmland](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1992-find-all-groups-of-farmland) |
 | [2059-minimum-operations-to-convert-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2059-minimum-operations-to-convert-number) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1901-find-a-peak-element-ii) |
+| [1992-find-all-groups-of-farmland](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1992-find-all-groups-of-farmland) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1306-jump-game-iii) |
+| [1992-find-all-groups-of-farmland](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1992-find-all-groups-of-farmland) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2685-count-the-number-of-complete-components) |
