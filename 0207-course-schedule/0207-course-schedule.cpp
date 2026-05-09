@@ -10,7 +10,7 @@ public:
 
             if(!vis[it]) {
 
-                if(dfscheck(it, vis, pathvis, adj) == true) {
+                if(dfscheck(it, vis, pathvis, adj)) {
                     return true;
                 }
             }
@@ -30,30 +30,28 @@ public:
 
         int n = prerequisites.size();
 
-        
+        // correct graph direction
         for(int i = 0; i < n; i++) {
 
             int u = prerequisites[i][0];
             int v = prerequisites[i][1];
 
-            adj[u].push_back(v);
+            adj[v].push_back(u);
         }
 
         int vis[numCourses];
         int pathvis[numCourses];
 
-        
         for(int i = 0; i < numCourses; i++) {
             vis[i] = 0;
             pathvis[i] = 0;
         }
 
-        
         for(int i = 0; i < numCourses; i++) {
 
             if(!vis[i]) {
 
-                if(dfscheck(i, vis, pathvis, adj) == true) {
+                if(dfscheck(i, vis, pathvis, adj)) {
                     return false;
                 }
             }
