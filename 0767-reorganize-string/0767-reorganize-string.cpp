@@ -2,59 +2,56 @@ class Solution {
 public:
     string reorganizeString(string s) {
 
+        unordered_map<char, int> mp;
         int n = s.size();
-
-        vector<int> freq(26, 0);
 
         
         for(int i = 0; i < n; i++) {
-            freq[s[i] - 'a']++;
+            mp[s[i]]++;
         }
 
-        int maxi = 0;
-        char maxchar;
-
         
-        for(int i = 0; i < 26; i++) {
-
-            if(freq[i] > maxi) {
-                maxi = freq[i];
-                maxchar = i + 'a';
+        for(auto it : mp) {
+            if(it.second > (n + 1) / 2) {
+                return "";
             }
         }
 
         
-        if(maxi > (n + 1) / 2) {
-            return "";
+        priority_queue<pair<int, char>> pq;
+
+        for(auto it : mp) {
+            pq.push({it.second, it.first});
         }
 
-        string ans(n, ' ');
+        string ans = "";
 
-        int idx = 0;
+        while(pq.size() >= 2) {
 
-       
-        while(freq[maxchar - 'a'] > 0) {
+            auto first = pq.top();
+            pq.pop();
 
-            ans[idx] = maxchar;
-            idx += 2;
+            auto sec = pq.top();
+            pq.pop();
 
-            freq[maxchar - 'a']--;
-        }
+            ans += first.second;
+            ans += sec.second;
 
-       
-        for(int i = 0; i < 26; i++) {
+            first.first--;
+            sec.first--;
 
-            while(freq[i] > 0) {
-
-                if(idx >= n) {
-                    idx = 1;
-                }
-
-                ans[idx] = i + 'a';
-                idx += 2;
-
-                freq[i]--;
+            if(first.first > 0) {
+                pq.push(first);
             }
+
+            if(sec.first > 0) {
+                pq.push(sec);
+            }
+        }
+
+        
+        if(!pq.empty()) {
+            ans += pq.top().second;
         }
 
         return ans;
