@@ -3,7 +3,7 @@ public:
     long long minArraySum(vector<int>& nums) {
 
         
-        vector<int> pelnorazi = nums;
+       // vector<int> pelnorazi = nums;
 
         unordered_set<int> st(nums.begin(), nums.end());
 
