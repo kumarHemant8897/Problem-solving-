@@ -1,10 +1,6 @@
 class Solution {
 public:
     long long minArraySum(vector<int>& nums) {
-
-        
-       // vector<int> pelnorazi = nums;
-
         unordered_set<int> st(nums.begin(), nums.end());
 
         long long sum = 0;
