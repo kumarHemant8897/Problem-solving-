@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0033-search-in-rotated-sorted-array) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0076-minimum-window-substring) |
@@ -839,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0139-word-break) |
 | [2707-extra-characters-in-a-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2707-extra-characters-in-a-string) |
 ## Graph Theory
