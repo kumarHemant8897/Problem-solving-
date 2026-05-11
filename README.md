@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0788-rotated-digits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0918-maximum-sum-circular-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0983-minimum-cost-for-tickets) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0912-sort-an-array) |
 | [1405-longest-happy-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1405-longest-happy-string) |
 | [1631-path-with-minimum-effort](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1631-path-with-minimum-effort) |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -857,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0802-find-eventual-safe-states) |
 | [2685-count-the-number-of-complete-components](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2685-count-the-number-of-complete-components) |
@@ -866,4 +871,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0802-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
