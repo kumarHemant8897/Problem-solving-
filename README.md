@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0322-coin-change) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0797-all-paths-from-source-to-target) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0767-reorganize-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0912-sort-an-array) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0797-all-paths-from-source-to-target) |
@@ -860,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0797-all-paths-from-source-to-target) |
@@ -874,5 +878,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
