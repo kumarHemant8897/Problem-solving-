@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1552-magnetic-force-between-two-balls) |
+| [1584-min-cost-to-connect-all-points](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1710-maximum-units-on-a-truck](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1710-maximum-units-on-a-truck) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1020-number-of-enclaves) |
+| [1584-min-cost-to-connect-all-points](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2685-count-the-number-of-complete-components) |
 ## Bucket Sort
@@ -875,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0802-find-eventual-safe-states) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1584-min-cost-to-connect-all-points](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2685-count-the-number-of-complete-components](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
@@ -891,4 +894,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
