@@ -17,24 +17,28 @@ public:
         q.push(root);
 
         if(root==NULL){
-            return {};
+            return ans;
         }
 
+        while(!q.empty()) {
+        int n=q.size();
+        vector<int> solve;
 
-        while(!q.empty()){
-            int size=q.size();
-            vector<int> solve;
+        for(int i=0;i<n;i++){
+            TreeNode* cur=q.front();
+            q.pop();
 
-            for(int i=0;i<size;i++){
-                TreeNode* node=q.front();
-                q.pop();
-
-                if(node->left != NULL) q.push(node->left);
-                if(node->right != NULL) q.push(node->right);
-                solve.push_back(node->val);
+            if(cur->left != NULL){
+                q.push(cur->left);
+            }
+            if(cur->right != NULL){
+                q.push(cur->right);
             }
 
-            ans.push_back(solve);
+            solve.push_back(cur->val);
+        }
+
+        ans.push_back(solve);
         }
         return ans;
         
