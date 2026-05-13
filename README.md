@@ -652,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0226-invert-binary-tree) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0226-invert-binary-tree) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0130-surrounded-regions) |
+| [0145-binary-tree-postorder-traversal](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0210-course-schedule-ii) |
@@ -808,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
