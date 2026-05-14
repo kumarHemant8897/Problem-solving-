@@ -10,6 +10,7 @@ public:
         if(nums[i] != i+1 ){
             return false;
         }
+        
        }
 
 
