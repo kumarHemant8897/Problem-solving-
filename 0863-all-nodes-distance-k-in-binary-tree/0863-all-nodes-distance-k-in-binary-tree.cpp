@@ -1,69 +1,92 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ * };
+ */
 class Solution {
 public:
-    void markParents(TreeNode* root, unordered_map<TreeNode*, TreeNode*>& parent) {
+
+     void markparent(TreeNode* root,   unordered_map<TreeNode*,TreeNode*> &map){
         queue<TreeNode*> q;
         q.push(root);
-        
-        while(!q.empty()) {
-            TreeNode* node = q.front();
-            q.pop();
-            
-            if(node->left) {
-                parent[node->left] = node;
-                q.push(node->left);
-            }
-            
-            if(node->right) {
-                parent[node->right] = node;
-                q.push(node->right);
-            }
-        }
-    }
-    
-    vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        unordered_map<TreeNode*, TreeNode*> parent;
-        markParents(root, parent);
-        
-        unordered_map<TreeNode*, bool> visited;
-        queue<TreeNode*> q;
-        
-        q.push(target);
-        visited[target] = true;
-        
-        int dist = 0;
-        
-        while(!q.empty()) {
-            int size = q.size();
-            if(dist == k) break;
-            dist++;
-            
-            for(int i = 0; i < size; i++) {
-                TreeNode* node = q.front();
+
+        while(!q.empty()){
+            int n=q.size();
+
+            for(int i=0;i<n;i++){
+                TreeNode* node=q.front();
                 q.pop();
-                
-                if(node->left && !visited[node->left]) {
-                    visited[node->left] = true;
+
+                if(node->left){
+                    map[node->left]=node;
                     q.push(node->left);
                 }
-                
-                if(node->right && !visited[node->right]) {
-                    visited[node->right] = true;
+
+                if(node->right){
+                    map[node->right]=node;
                     q.push(node->right);
-                }
-                
-                if(parent[node] && !visited[parent[node]]) {
-                    visited[parent[node]] = true;
-                    q.push(parent[node]);
                 }
             }
         }
+     }
+
+
+    vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
+        unordered_map<TreeNode*,TreeNode*> map;
+        markparent(root,map);
         
-        vector<int> result;
-        while(!q.empty()) {
-            result.push_back(q.front()->val);
+        queue<TreeNode*> q;
+        unordered_map<TreeNode*,bool> vis;
+
+        q.push(target);
+        vis[target]=true;
+
+        int dis=0;
+
+        while(!q.empty()){
+            int n=q.size();
+            
+
+            if(dis==k){
+                break;
+            }
+            dis++;
+
+            for(int i=0;i<n;i++){
+                TreeNode* node=q.front();
+                q.pop();
+
+                if(node->left && !vis[node->left]){
+                    vis[node->left]=true;
+                    q.push(node->left);
+                }
+
+                if(node->right && !vis[node->right]){
+                    vis[node->right]=true;
+                    q.push(node->right);
+                }
+
+
+                if(map[node] && !vis[map[node]]){
+                    vis[map[node]]=true;
+                    q.push(map[node]);
+                }
+            }
+
+
+        }
+
+        vector<int> ans;
+        while(!q.empty()){
+            ans.push_back(q.front()->val);
             q.pop();
         }
+        return ans;
+
         
-        return result;
     }
 };
