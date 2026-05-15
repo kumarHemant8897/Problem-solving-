@@ -15,7 +15,7 @@ public:
         if(root==NULL){
             return new TreeNode(val);
         }
-           
+
         TreeNode* cur=root;
 
         while(true){
@@ -29,20 +29,17 @@ public:
                 }
             }
 
-
             else{
                 if(cur->left != NULL){
                     cur=cur->left;
                 }
                 else{
-                    cur->left= new TreeNode(val);
+                    cur->left=new TreeNode(val);
                     break;
                 }
             }
-
         }
         return root;
-        
         
     }
 };
