@@ -38,12 +38,7 @@ public:
             return 0;
         }
 
-        int leftree=left(root);
-        int rightree=right(root);
-
-        if(leftree==rightree){
-            return (1<<leftree)-1;
-        }
+       
 
         return 1+countNodes(root->left)+countNodes(root->right);
 
