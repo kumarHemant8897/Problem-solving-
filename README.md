@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
+| [3477-fruits-into-baskets-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3477-fruits-into-baskets-ii) |
 | [3523-make-array-non-decreasing](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3523-make-array-non-decreasing) |
 | [3660-jump-game-ix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3660-jump-game-ix) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2498-frog-jump-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2498-frog-jump-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3477-fruits-into-baskets-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3477-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2553-separate-the-digits-in-an-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3477-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -634,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3477-fruits-into-baskets-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3477-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -647,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0220-contains-duplicate-iii) |
 | [0493-reverse-pairs](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0493-reverse-pairs) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3477-fruits-into-baskets-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3477-fruits-into-baskets-ii) |
 ## Recursion
 |  |
 | ------- |
