@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0767-reorganize-string) |
 | [1048-longest-string-chain](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1143-longest-common-subsequence) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1405-longest-happy-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1405-longest-happy-string) |
 | [1903-largest-odd-number-in-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1903-largest-odd-number-in-string) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2302-count-subarrays-with-score-less-than-k) |
