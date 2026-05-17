@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1710-maximum-units-on-a-truck](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1834-single-threaded-cpu](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1834-single-threaded-cpu) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1861-rotating-the-box) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1710-maximum-units-on-a-truck) |
+| [1834-single-threaded-cpu](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1834-single-threaded-cpu) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0912-sort-an-array) |
 | [1405-longest-happy-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1405-longest-happy-string) |
 | [1631-path-with-minimum-effort](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1631-path-with-minimum-effort) |
+| [1834-single-threaded-cpu](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1834-single-threaded-cpu) |
 ## Quickselect
 |  |
 | ------- |
