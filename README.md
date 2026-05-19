@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0713-subarray-product-less-than-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0746-min-cost-climbing-stairs) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0767-reorganize-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0767-reorganize-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0977-squares-of-a-sorted-array) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0767-reorganize-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -548,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0860-lemonade-change) |
@@ -567,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0992-subarrays-with-k-different-integers) |
 | [2404-most-frequent-even-element](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2404-most-frequent-even-element) |
