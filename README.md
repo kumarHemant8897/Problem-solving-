@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0560-subarray-sum-equals-k) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0621-task-scheduler) |
@@ -906,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0173-binary-search-tree-iterator) |
+| [0496-next-greater-element-i](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1472-design-browser-history](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1472-design-browser-history) |
@@ -918,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [3523-make-array-non-decreasing](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3523-make-array-non-decreasing) |
 ## Iterator
