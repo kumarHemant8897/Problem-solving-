@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0560-subarray-sum-equals-k) |
@@ -909,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1472-design-browser-history](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1472-design-browser-history) |
@@ -922,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [3523-make-array-non-decreasing](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3523-make-array-non-decreasing) |
 ## Iterator
