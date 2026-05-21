@@ -7,41 +7,45 @@ public:
 
         vector<pair<int,int>> temp;
 
-        int i = low;
-        int j = mid + 1;
+        int left = low;
+        int right = mid + 1;
 
-        while(i <= mid && j <= high) {
+        int cnt = 0;
 
-            if(arr[i].first <= arr[j].first) {
+        while(left <= mid && right <= high) {
 
-                ans[arr[i].second] += (j - (mid + 1));
+            if(arr[right].first < arr[left].first) {
 
-                temp.push_back(arr[i]);
-                i++;
+                cnt++;
+                temp.push_back(arr[right]);
+                right++;
             }
             else {
 
-                temp.push_back(arr[j]);
-                j++;
+                ans[arr[left].second] += cnt;
+
+                temp.push_back(arr[left]);
+                left++;
             }
         }
 
-        while(i <= mid) {
+        while(left <= mid) {
 
-            ans[arr[i].second] += (j - (mid + 1));
+            ans[arr[left].second] += cnt;
 
-            temp.push_back(arr[i]);
-            i++;
+            temp.push_back(arr[left]);
+            left++;
         }
 
-        while(j <= high) {
+        while(right <= high) {
 
-            temp.push_back(arr[j]);
-            j++;
+            temp.push_back(arr[right]);
+            right++;
         }
 
-        for(int k = low; k <= high; k++) {
-            arr[k] = temp[k - low];
+        for(int i = low; i <= high; i++) {
+
+            arr[i] = temp[i - low];
         }
     }
 
