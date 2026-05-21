@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2951-find-the-peaks](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2965-find-missing-and-repeated-values) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-extra-characters-in-a-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2707-extra-characters-in-a-string) |
 | [2784-check-if-array-is-good](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2965-find-missing-and-repeated-values) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1903-largest-odd-number-in-string) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2707-extra-characters-in-a-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2707-extra-characters-in-a-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3340-check-balanced-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3340-check-balanced-string) |
 | [3407-substring-matching-pattern](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3407-substring-matching-pattern) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -989,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0139-word-break) |
 | [2707-extra-characters-in-a-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2707-extra-characters-in-a-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Graph Theory
 |  |
 | ------- |
