@@ -1,75 +1,77 @@
 class Solution {
 public:
 
-    void merge(vector<pair<int,int>>& arr, int low, int mid,
-               int high, vector<int>& ans) {
+    vector<int> ans;
+
+    void merge(vector<pair<int,int>>& arr, int low, int mid, int high) {
 
         vector<pair<int,int>> temp;
 
-        int left = low;
-        int right = mid + 1;
+        int i = low;
+        int j = mid + 1;
 
-        int cnt = 0;
+        while(i <= mid && j <= high) {
 
-        while(left <= mid && right <= high) {
+            if(arr[i].first <= arr[j].first) {
 
-            if(arr[right].first < arr[left].first) {
+                ans[arr[i].second] += (j - (mid + 1));
 
-                cnt++;
-                temp.push_back(arr[right]);
-                right++;
+                temp.push_back(arr[i]);
+                i++;
             }
             else {
 
-                ans[arr[left].second] += cnt;
-                temp.push_back(arr[left]);
-                left++;
+                temp.push_back(arr[j]);
+                j++;
             }
         }
 
-        while(left <= mid) {
+        while(i <= mid) {
 
-            ans[arr[left].second] += cnt;
-            temp.push_back(arr[left]);
-            left++;
+            ans[arr[i].second] += (j - (mid + 1));
+
+            temp.push_back(arr[i]);
+            i++;
         }
 
-        while(right <= high) {
+        while(j <= high) {
 
-            temp.push_back(arr[right]);
-            right++;
+            temp.push_back(arr[j]);
+            j++;
         }
 
-        for(int i = low; i <= high; i++) {
-            arr[i] = temp[i - low];
+        for(int k = low; k <= high; k++) {
+            arr[k] = temp[k - low];
         }
     }
 
-    void mergeSort(vector<pair<int,int>>& arr, int low,
-                   int high, vector<int>& ans) {
+    void mergeSort(vector<pair<int,int>>& arr, int low, int high) {
 
         if(low >= high) return;
 
         int mid = (low + high) / 2;
 
-        mergeSort(arr, low, mid, ans);
-        mergeSort(arr, mid + 1, high, ans);
+        mergeSort(arr, low, mid);
 
-        merge(arr, low, mid, high, ans);
+        mergeSort(arr, mid + 1, high);
+
+        merge(arr, low, mid, high);
     }
 
     vector<int> countSmaller(vector<int>& nums) {
 
         int n = nums.size();
 
+        ans.resize(n, 0);
+
         vector<pair<int,int>> arr;
-        vector<int> ans(n, 0);
 
         for(int i = 0; i < n; i++) {
+
             arr.push_back({nums[i], i});
         }
 
-        mergeSort(arr, 0, n - 1, ans);
+        mergeSort(arr, 0, n - 1);
 
         return ans;
     }
