@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-minimum-operations-to-convert-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2059-minimum-operations-to-convert-number) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -938,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1472-design-browser-history](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1472-design-browser-history) |
+| [2104-sum-of-subarray-ranges](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2104-sum-of-subarray-ranges) |
 | [3523-make-array-non-decreasing](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3523-make-array-non-decreasing) |
 ## Brainteaser
 |  |
@@ -953,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2104-sum-of-subarray-ranges](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2104-sum-of-subarray-ranges) |
 | [3523-make-array-non-decreasing](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3523-make-array-non-decreasing) |
 ## Iterator
 |  |
