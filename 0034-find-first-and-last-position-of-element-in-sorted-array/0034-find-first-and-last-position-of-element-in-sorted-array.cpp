@@ -9,7 +9,7 @@ public:
                 if(first == -1 ){
                     first=i;
                 }
-                 last=i;
+                last=i;
             }
            
         }
