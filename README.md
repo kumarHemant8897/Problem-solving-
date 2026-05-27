@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0048-rotate-image) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0126-word-ladder-ii) |
 | [0257-binary-tree-paths](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0257-binary-tree-paths) |
