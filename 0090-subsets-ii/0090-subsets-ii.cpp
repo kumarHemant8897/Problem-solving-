@@ -15,9 +15,10 @@ void getallsubset(vector<int>& nums,vector<int> &ans, int i, vector<vector<int>>
     
     int idx=i+1;
 
-    while(idx < nums.size() && nums[idx]==nums[idx-1]){
+    while(idx < nums.size() && nums[idx] == nums[idx-1]){
         idx++;
     }
+
     getallsubset(nums,ans,idx,allsubset);
 
 
