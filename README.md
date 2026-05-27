@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0126-word-ladder-ii) |
 | [0257-binary-tree-paths](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0257-binary-tree-paths) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0191-number-of-1-bits) |
