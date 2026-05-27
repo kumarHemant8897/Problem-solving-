@@ -4,7 +4,7 @@ public:
     void solve(int idx, string digits, string &output,
                vector<string> &ans, vector<string> &mapping) {
         
-        // Base case
+        
         if(idx >= digits.size()) {
             ans.push_back(output);
             return;
@@ -19,7 +19,7 @@ public:
 
             solve(idx + 1, digits, output, ans, mapping);
 
-            // Backtracking
+            
             output.pop_back();
         }
     }
