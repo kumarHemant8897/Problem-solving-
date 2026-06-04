@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2707-extra-characters-in-a-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2707-extra-characters-in-a-string) |
 | [3660-jump-game-ix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3660-jump-game-ix) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2965-find-missing-and-repeated-values) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -917,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0204-count-primes) |
 | [2951-find-the-peaks](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2951-find-the-peaks) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Search Tree
 |  |
 | ------- |
