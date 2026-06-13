@@ -20,26 +20,27 @@ public:
             return ans;
         }
 
-        while(!q.empty()) {
-        int n=q.size();
-        vector<int> solve;
+        while(!q.empty()){
+            int n=q.size();
+            vector<int> solve;
 
-        for(int i=0;i<n;i++){
-            TreeNode* cur=q.front();
-            q.pop();
+            for(int i=0;i<n;i++){
+                TreeNode* cur=q.front();
+                q.pop();
 
-            if(cur->left != NULL){
-                q.push(cur->left);
+                if(cur->left != NULL){
+                    q.push(cur->left);
+                }
+                if(cur->right != NULL){
+                    q.push(cur->right);
+                }
+
+                solve.push_back(cur->val);
             }
-            if(cur->right != NULL){
-                q.push(cur->right);
-            }
 
-            solve.push_back(cur->val);
+            ans.push_back(solve);
         }
 
-        ans.push_back(solve);
-        }
         return ans;
         
     }
