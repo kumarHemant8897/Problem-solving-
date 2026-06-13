@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3689-maximum-total-subarray-value-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3838-weighted-word-mapping](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3838-weighted-word-mapping) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3340-check-balanced-string) |
 | [3407-substring-matching-pattern](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3407-substring-matching-pattern) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3838-weighted-word-mapping](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
 |  |
 | ------- |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2553-separate-the-digits-in-an-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3477-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3838-weighted-word-mapping) |
 ## Matrix
 |  |
 | ------- |
