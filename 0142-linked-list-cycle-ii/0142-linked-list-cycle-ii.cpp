@@ -22,26 +22,20 @@ public:
                 break;
             }
 
+            
         }
-        slow=head;
 
+        slow=head;
         if(!iscycle){
             return NULL;
         }
-
         while(slow != fast){
-            slow=slow->next;
-            fast=fast->next;
+           slow=slow->next;
+           fast=fast->next;
         }
+
+
         return slow;
-        
-
-         
-
-        
-
-
-        
         
     }
 };
