@@ -1,41 +1,39 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        int n = s.size();
-        int m = t.size();
-
         vector<int> freq(256, 0);
 
-        for(char c : t) {
+        for(char c : t)
             freq[c]++;
-        }
 
-        int l = 0, r = 0;
-        int count = 0;
-        int minlen = INT_MAX;
-        int stidx = -1;
+        int l = 0;
+        int start = 0;
+        int minLen = INT_MAX;
+        int required = t.size();
 
-        while(r < n) {
-            if(freq[s[r]] > 0) {
-                count++;
-            }
+        for(int r = 0; r < s.size(); r++) {
+
+            if(freq[s[r]] > 0)
+                required--;
+
             freq[s[r]]--;
 
-            while(count == m) {
-                if(r - l + 1 < minlen) {
-                    minlen = r - l + 1;
-                    stidx = l;
+            while(required == 0) {
+
+                if(r - l + 1 < minLen) {
+                    minLen = r - l + 1;
+                    start = l;
                 }
 
                 freq[s[l]]++;
-                if(freq[s[l]] > 0) {
-                    count--;
-                }
+
+                if(freq[s[l]] > 0)
+                    required++;
+
                 l++;
             }
-            r++;
         }
 
-        return stidx == -1 ? "" : s.substr(stidx, minlen);
+        return minLen == INT_MAX ? "" : s.substr(start, minLen);
     }
 };
