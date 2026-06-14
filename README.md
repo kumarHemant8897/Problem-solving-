@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0396-rotate-function) |
+| [0407-trapping-rain-water-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0416-partition-equal-subset-sum) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0407-trapping-rain-water-ii) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -726,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0407-trapping-rain-water-ii) |
 | [0994-rotting-oranges](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1091-shortest-path-in-binary-matrix) |
