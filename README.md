@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2951-find-the-peaks](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2951-find-the-peaks) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2965-find-missing-and-repeated-values](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2965-find-missing-and-repeated-values) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2733-neither-minimum-nor-maximum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2784-check-if-array-is-good) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Heap (Priority Queue)
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-minimum-moves-to-reach-target-score](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2498-frog-jump-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2498-frog-jump-ii) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3523-make-array-non-decreasing](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3523-make-array-non-decreasing) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
