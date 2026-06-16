@@ -1,25 +1,34 @@
 class Solution {
 public:
-    void getAllCombinations(vector<int> &arr, int idx, int tar, vector<vector<int>> &ans, vector<int> &combin) {
-        if (tar == 0) {
+    void getallsub(int idx, vector<int> &arr,int target,vector<vector<int>> &ans,vector<int> &combin){
+        if(target == 0){
             ans.push_back(combin);
             return;
         }
-        if (idx == arr.size() || tar < 0) return;
 
-        // Include current element
+        if( idx == arr.size() || target  < 0){
+            return;
+        }
+
         combin.push_back(arr[idx]);
-        getAllCombinations(arr, idx, tar - arr[idx], ans, combin);
+        getallsub(idx,arr,target - arr[idx],ans,combin);
         combin.pop_back();
 
-        // Exclude current element
-        getAllCombinations(arr, idx + 1, tar, ans, combin);
+        getallsub(idx+1,arr,target  ,ans,combin);
+
+
+
     }
 
-    vector<vector<int>> combinationSum(vector<int>& arr, int target) {
+
+
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        int n=candidates.size();
         vector<vector<int>> ans;
         vector<int> combin;
-        getAllCombinations(arr, 0, target, ans, combin);
+
+        getallsub(0,candidates, target ,ans,combin);
         return ans;
+        
     }
 };
