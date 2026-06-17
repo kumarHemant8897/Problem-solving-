@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0112-path-sum) |
 | [0126-word-ladder-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0130-surrounded-regions) |
@@ -845,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -893,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -934,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0124-binary-tree-maximum-path-sum) |
