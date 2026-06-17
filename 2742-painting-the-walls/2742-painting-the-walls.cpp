@@ -1,8 +1,9 @@
 class Solution {
 public:
-    int dp[501][501];
+    vector<vector<int>> dp;
 
-    int dfs(int i, int walls, vector<int>& cost, vector<int>& time) {
+    int solve(int i, int walls, vector<int>& cost, vector<int>& time) {
+
         if (walls <= 0) return 0;
 
         if (i == cost.size()) return 1e9;
@@ -10,16 +11,20 @@ public:
         if (dp[i][walls] != -1)
             return dp[i][walls];
 
-        int skip = dfs(i + 1, walls, cost, time);
+        int nottake = solve(i + 1, walls, cost, time);
 
         int take = cost[i] +
-                   dfs(i + 1, walls - time[i] - 1, cost, time);
+                   solve(i + 1, walls - time[i] - 1, cost, time);
 
-        return dp[i][walls] = min(skip, take);
+        return dp[i][walls] = min(take, nottake);
     }
 
     int paintWalls(vector<int>& cost, vector<int>& time) {
-        memset(dp, -1, sizeof(dp));
-        return dfs(0, cost.size(), cost, time);
+
+        int n = cost.size();
+
+        dp.assign(n, vector<int>(n + 1, -1));
+
+        return solve(0, n, cost, time);
     }
 };
