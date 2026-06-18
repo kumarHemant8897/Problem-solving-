@@ -10,21 +10,16 @@ public:
             return dp[idx1][idx2];
 
         if(word1[idx1] == word2[idx2]) {
-            return dp[idx1][idx2] =
-                solve(idx1 - 1, word1, idx2 - 1, word2, dp);
+            return dp[idx1][idx2] =  solve(idx1 - 1, word1, idx2 - 1, word2, dp);
         }
 
-        int insertOp =
-            1 + solve(idx1, word1, idx2 - 1, word2, dp);
+        int insertOp =  1 + solve(idx1, word1, idx2 - 1, word2, dp);
 
-        int deleteOp =
-            1 + solve(idx1 - 1, word1, idx2, word2, dp);
+        int deleteOp =  1 + solve(idx1 - 1, word1, idx2, word2, dp);
 
-        int replaceOp =
-            1 + solve(idx1 - 1, word1, idx2 - 1, word2, dp);
+        int replaceOp =  1 + solve(idx1 - 1, word1, idx2 - 1, word2, dp);
 
-        return dp[idx1][idx2] =
-            min({insertOp, deleteOp, replaceOp});
+        return dp[idx1][idx2] =  min({insertOp, deleteOp, replaceOp});
     }
 
     int minDistance(string word1, string word2) {
