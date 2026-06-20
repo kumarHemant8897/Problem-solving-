@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0788-rotated-digits) |
 | [0845-longest-mountain-in-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0845-longest-mountain-in-array) |
+| [0887-super-egg-drop](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0887-super-egg-drop) |
 | [0907-sum-of-subarray-minimums](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0918-maximum-sum-circular-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0983-minimum-cost-for-tickets) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0396-rotate-function) |
 | [0523-continuous-subarray-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0523-continuous-subarray-sum) |
 | [0788-rotated-digits](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0788-rotated-digits) |
+| [0887-super-egg-drop](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0887-super-egg-drop) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0875-koko-eating-bananas) |
+| [0887-super-egg-drop](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0887-super-egg-drop) |
 | [1004-max-consecutive-ones-iii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
