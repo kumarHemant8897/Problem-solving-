@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1048-longest-string-chain) |
+| [1189-maximum-number-of-balloons](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1345-jump-game-iv) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1405-longest-happy-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1405-longest-happy-string) |
 | [1903-largest-odd-number-in-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1903-largest-odd-number-in-string) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0992-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1189-maximum-number-of-balloons) |
 | [2404-most-frequent-even-element](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
