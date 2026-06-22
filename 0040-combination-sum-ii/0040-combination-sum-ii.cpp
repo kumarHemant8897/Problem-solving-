@@ -1,28 +1,34 @@
 class Solution {
 public:
-    void backtrack(vector<int>& arr, int target, int start, vector<int>& combin, vector<vector<int>>& ans) {
-        if (target == 0) {
+
+    void solve( vector<int>& candidates, int target, int start,vector<vector<int>> &ans,vector<int>&combin){
+        if(target==0){
             ans.push_back(combin);
             return;
         }
 
-        for (int i = start; i < arr.size(); i++) {
-            // Skip duplicates
-            if (i > start && arr[i] == arr[i-1]) continue;
+        for(int  i=start;i<candidates.size();i++){
+            if(i>start && candidates[i] == candidates[i-1]) continue ;
 
-            if (arr[i] > target) break; // pruning
+            if(candidates[i] > target){
+                break;
+            }
 
-            combin.push_back(arr[i]);
-            backtrack(arr, target - arr[i], i + 1, combin, ans); // move to next index
+            combin.push_back(candidates[i]);
+            solve(candidates,target-candidates[i],i+1,ans,combin);
             combin.pop_back();
         }
+
     }
 
-    vector<vector<int>> combinationSum2(vector<int>& arr, int target) {
-        sort(arr.begin(), arr.end()); // sort to handle duplicates
+
+    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+        int n=candidates.size();
         vector<vector<int>> ans;
+        sort(candidates.begin(),candidates.end());
         vector<int> combin;
-        backtrack(arr, target, 0, combin, ans);
+        solve(candidates,target,0,ans,combin);
         return ans;
+        
     }
 };
