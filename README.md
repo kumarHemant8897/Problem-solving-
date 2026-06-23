@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1306-jump-game-iii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1345-jump-game-iv) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0788-rotated-digits) |
 | [0887-super-egg-drop](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0887-super-egg-drop) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1248-count-number-of-nice-subarrays) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1840-maximum-building-height) |
