@@ -8,10 +8,7 @@ public:
         int time=0; 
         while(!q.empty()){
          time++;
-        
-
-
-
+         
         int idfront=q.front();
         q.pop();
         tic[idfront]--;
