@@ -1,15 +1,16 @@
 class Solution {
 public:
     char repeatedCharacter(string s) {
-        int n=s.size();
-        for(int i=0;i<n;i++){
-            for(int j=0;j<i;j++){
-                if(s[i] == s[j]){
-                   return s[i];          
-                }
+        unordered_map<char, int> mp;
+
+        for(int i = 0; i < s.size(); i++) {
+            if(mp[s[i]] >= 1) {
+                return s[i];
             }
+
+            mp[s[i]]++;
         }
-        return {-1};
-        
+
+        return '\0';
     }
 };
