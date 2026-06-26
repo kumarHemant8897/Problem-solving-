@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3689-maximum-total-subarray-value-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3838-weighted-word-mapping](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3838-weighted-word-mapping) |
 ## Divide and Conquer
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0918-maximum-sum-circular-subarray) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## String
 |  |
@@ -751,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2574-left-and-right-sum-differences](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2574-left-and-right-sum-differences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -847,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3161-block-placement-queries](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3161-block-placement-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3477-fruits-into-baskets-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -855,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0912-sort-an-array) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Ordered Set
 |  |
 | ------- |
