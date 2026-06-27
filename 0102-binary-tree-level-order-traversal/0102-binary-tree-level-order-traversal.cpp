@@ -14,12 +14,11 @@ public:
     vector<vector<int>> levelOrder(TreeNode* root) {
         vector<vector<int>> ans;
         queue<TreeNode*> q;
-        q.push(root);
-
         if(root==NULL){
             return ans;
         }
 
+        q.push(root);
         while(!q.empty()){
             int n=q.size();
             vector<int> solve;
@@ -28,14 +27,13 @@ public:
                 TreeNode* cur=q.front();
                 q.pop();
 
+                solve.push_back(cur->val);
                 if(cur->left != NULL){
                     q.push(cur->left);
                 }
                 if(cur->right != NULL){
                     q.push(cur->right);
                 }
-
-                solve.push_back(cur->val);
             }
 
             ans.push_back(solve);
