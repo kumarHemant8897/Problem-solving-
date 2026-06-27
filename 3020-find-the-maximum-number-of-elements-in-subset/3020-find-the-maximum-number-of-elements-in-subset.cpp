@@ -8,7 +8,7 @@ public:
 
         int ans = 1;
 
-        // Special case for 1
+        
         if (freq.count(1)) {
             ans = max(ans, (freq[1] % 2 == 0) ? freq[1] - 1 : freq[1]);
         }
@@ -28,10 +28,10 @@ public:
                     break;
                 }
 
-                // Use two copies of current number
+                
                 len += 2;
 
-                // Prevent overflow
+               
                 if (cur > 1000000000LL / cur) {
                     len--;
                     break;
@@ -39,8 +39,8 @@ public:
 
                 long long nxt = cur * cur;
 
-                // If next square doesn't exist,
-                // current becomes the center.
+               
+               
                 if (!freq.count(nxt)) {
                     len--;
                     break;
