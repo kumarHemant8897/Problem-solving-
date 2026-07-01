@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0904-fruit-into-baskets) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1048-longest-string-chain) |
@@ -871,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1020-number-of-enclaves) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1631-path-with-minimum-effort) |
@@ -1087,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0897-increasing-order-search-tree) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1020-number-of-enclaves) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1042-flower-planting-with-no-adjacent) |
@@ -1282,6 +1285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1584-min-cost-to-connect-all-points) |
