@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0419-battleships-in-a-board) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0463-island-perimeter) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0387-first-unique-character-in-a-string) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0496-next-greater-element-i) |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0287-find-the-duplicate-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -1276,6 +1279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0139-word-break) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2707-extra-characters-in-a-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2707-extra-characters-in-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Graph Theory
