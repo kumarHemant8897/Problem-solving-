@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-minimum-operations-to-convert-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2059-minimum-operations-to-convert-number) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2079-watering-plants](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2079-watering-plants) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2104-sum-of-subarray-ranges) |
 | [2105-watering-plants-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2105-watering-plants-ii) |
@@ -833,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0735-asteroid-collision) |
 | [1914-cyclically-rotating-a-grid](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1914-cyclically-rotating-a-grid) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2073-time-needed-to-buy-tickets) |
+| [2079-watering-plants](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2161-partition-array-according-to-given-pivot) |
