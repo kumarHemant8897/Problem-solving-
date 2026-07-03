@@ -14,7 +14,7 @@ public:
             mx = max(mx, w);
         }
 
-        // Topological Sort
+        
         queue<int> q;
         for (int i = 0; i < n; i++) {
             if (indegree[i] == 0)
