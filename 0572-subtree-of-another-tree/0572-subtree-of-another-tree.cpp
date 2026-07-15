@@ -10,36 +10,34 @@
  * };
  */
 class Solution {
-public:  
+public:
+    bool isidentical(TreeNode* p, TreeNode*q){
+        if(p==NULL || q==NULL){
+            return p==q;
+        }
 
-   bool identical(TreeNode* p,TreeNode* q){
-    if(p==NULL||q==NULL){
-        return p==q;
+        bool isleft=isidentical(p->left,q->left);
+        bool isright=isidentical(p->right,q->right);
+
+        return isleft && isright && (p->val == q->val);
+
+
     }
 
-    bool isleft=identical(p->left,q->left);
-    bool isright=identical(p->right,q->right);
+   
 
-    return isleft && isright && (p->val==q->val);
-
-   }
-
-
-  
-    bool isSubtree(TreeNode* root, TreeNode* subroot) {
+    bool isSubtree(TreeNode* root, TreeNode* subRoot) {
         if(root==NULL) return false;
-        if(subroot==NULL) return true;
-        if((root->val==subroot->val) && identical(root,subroot)){
-            return true;
-            
-        }
-        else{
-            return isSubtree(root->left,subroot) || 
-            isSubtree(root->right,subroot);
-            
+        if(subRoot == NULL) return true;
 
+        if((root->val == subRoot->val) && isidentical(root,subRoot)){
+            return true;
         }
-        return false;
+        
+            return  isSubtree(root->left,subRoot) || isSubtree(root->right,subRoot);
+        
+
+      
         
     }
 };
