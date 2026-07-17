@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3161-block-placement-queries](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3161-block-placement-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3477-fruits-into-baskets-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3477-fruits-into-baskets-ii) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3312-sorted-gcd-pair-queries](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-minimum-moves-to-reach-target-score](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2965-find-missing-and-repeated-values) |
+| [3312-sorted-gcd-pair-queries](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -710,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3161-block-placement-queries) |
+| [3312-sorted-gcd-pair-queries](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3477-fruits-into-baskets-ii) |
 | [3620-network-recovery-pathways](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -798,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3312-sorted-gcd-pair-queries](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Prefix Sum
 |  |
@@ -817,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1732-find-the-highest-altitude) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2574-left-and-right-sum-differences](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2574-left-and-right-sum-differences) |
+| [3312-sorted-gcd-pair-queries](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sliding Window
@@ -1285,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0204-count-primes) |
+| [3312-sorted-gcd-pair-queries](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -1298,6 +1305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bitmask
 |  |
 | ------- |
