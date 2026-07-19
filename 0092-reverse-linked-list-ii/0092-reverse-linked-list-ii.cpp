@@ -28,8 +28,6 @@ public:
             newNode->next=prev->next;
             prev->next=newNode;
         }
-
-
         return dummy->next;
         
 
