@@ -11,13 +11,10 @@ public:
             return dp[idx1][idx2];
 
         if (s[idx1] == t[idx2]) {
-            return dp[idx1][idx2] =
-                1 + solve(s, idx1 - 1, t, idx2 - 1, dp);
+            return dp[idx1][idx2] =  1 + solve(s, idx1 - 1, t, idx2 - 1, dp);
         }
 
-        return dp[idx1][idx2] =
-            max(solve(s, idx1 - 1, t, idx2, dp),
-                solve(s, idx1, t, idx2 - 1, dp));
+        return dp[idx1][idx2] =max(solve(s, idx1 - 1, t, idx2, dp), solve(s, idx1, t, idx2 - 1, dp));
     }
 
     int longestPalindromeSubseq(string s) {
