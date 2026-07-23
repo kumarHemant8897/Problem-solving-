@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0120-triangle) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0127-word-ladder) |
