@@ -6,27 +6,27 @@ public:
 
         for(int i=0;i<n;i++){
 
-            int l=i,r=i;
-            while(l>=0 && r< n && s[r]==s[l]){
+            int l=i;
+            int r=i;
+            while( l>=0 && r < n && s[r] == s[l]){
                 if(r-l+1 > ans.size()){
-                ans=s.substr(l,r-l+1);
+                    ans=s.substr(l,r-l+1);
                 }
-                 l--;
+                l--;
             r++;
-
             }
-           
+            
 
-             l=i,r=i+1;
-             while(l>=0 && r< n && s[r]==s[l]){
+            l=i;
+            r=i+1;
+
+            while( l>=0 && r < n && s[r] == s[l]){
                 if(r-l+1 > ans.size()){
-                ans=s.substr(l,r-l+1);
+                    ans=s.substr(l,r-l+1);
                 }
-                 l--;
+                l--;
             r++;
-
             }
-           
 
         }
 
