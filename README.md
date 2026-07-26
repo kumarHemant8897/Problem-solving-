@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0767-reorganize-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0767-reorganize-string) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0396-rotate-function) |
 | [0523-continuous-subarray-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0788-rotated-digits) |
 | [0887-super-egg-drop](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0887-super-egg-drop) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1248-count-number-of-nice-subarrays) |
