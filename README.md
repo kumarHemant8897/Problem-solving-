@@ -636,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1048-longest-string-chain) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1861-rotating-the-box) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -1254,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1472-design-browser-history) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
