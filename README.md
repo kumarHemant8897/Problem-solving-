@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0322-coin-change) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0387-first-unique-character-in-a-string) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0451-sort-characters-by-frequency) |
@@ -664,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0231-power-of-two) |
+| [0264-ugly-number-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0367-valid-perfect-square) |
