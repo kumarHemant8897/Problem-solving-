@@ -10,7 +10,6 @@
  */
 class Solution {
 public:
-
     ListNode* convert(vector<int> &ans){
         int n=ans.size();
         if(n==0) return NULL;
@@ -18,20 +17,23 @@ public:
         ListNode* head=new ListNode(ans[0]);
         ListNode* temp=head;
         for(int i=1;i<n;i++){
-           temp->next=new ListNode(ans[i]);
-           temp=temp->next;
+            temp->next=new ListNode(ans[i]);
+            temp=temp->next;
         }
+
 
         return head;
     }
 
 
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
+
+    ListNode* mergeKLists(vector<ListNode*>& list) {
+        int n=list.size();
         vector<int> ans;
-        int n=lists.size();
 
         for(int i=0;i<n;i++){
-            ListNode* temp=lists[i];
+            ListNode* temp=list[i];
+
 
             while(temp != NULL){
                 ans.push_back(temp->val);
@@ -41,6 +43,7 @@ public:
 
         sort(ans.begin(),ans.end());
         return convert(ans);
+
         
     }
 };
