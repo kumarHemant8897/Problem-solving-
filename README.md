@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0912-sort-an-array) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0788-rotated-digits) |
 | [0845-longest-mountain-in-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0845-longest-mountain-in-array) |
+| [0877-stone-game](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0887-super-egg-drop) |
 | [0907-sum-of-subarray-minimums](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0918-maximum-sum-circular-subarray) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0887-super-egg-drop) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -1426,4 +1429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0572-subtree-of-another-tree) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
