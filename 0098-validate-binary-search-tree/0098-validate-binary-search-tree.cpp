@@ -12,28 +12,24 @@
 class Solution {
 public:
 
-  bool solve(TreeNode* root, long long minval,long long maxval){
-    if(root==NULL){
-        return true;
+    bool solve(TreeNode* root,long long minval,long long maxval){
+        if(root==NULL){
+            return true;
+        }
+
+        if(root->val <= minval || root->val >= maxval){
+            return false;
+        }
+
+        return solve(root->left , minval , root->val) && solve(root->right, root->val,maxval);
     }
-
-    if(root->val <= minval || root->val >= maxval){
-        return false;
-    }
-
-    return solve(root->left,minval,root->val ) && solve(root->right,root->val,maxval);
-
-
-
-  }
-
 
 
     bool isValidBST(TreeNode* root) {
         long long minval=INT_MAX;
         long long maxval=INT_MIN;
 
-        return solve(root, LLONG_MIN,LLONG_MAX);
+        return solve(root, LLONG_MIN, LLONG_MAX);
         
     }
 };
