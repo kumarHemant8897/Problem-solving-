@@ -522,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3310-remove-methods-from-project) |
 ## Sorting
 |  |
 | ------- |
@@ -1200,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2596-check-knight-tour-configuration) |
 | [2685-count-the-number-of-complete-components](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
 | ------- |
@@ -1409,6 +1411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2685-count-the-number-of-complete-components](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3310-remove-methods-from-project) |
 | [3620-network-recovery-pathways](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
