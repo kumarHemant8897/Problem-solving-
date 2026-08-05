@@ -11,33 +11,33 @@
  */
 class Solution {
 public:
-   TreeNode* solve(vector<int>&inorder,int inst,int inend,vector<int>&preorder,int prest,int prend,map<int,int>&inmap){
-    if(inst > inend || prest > prend){
-        return NULL;
-    }
-
-    TreeNode* root=new TreeNode(preorder[prest]);
-
-    int inroot=inmap[root->val];
-    int leftnum=inroot-inst;
-
-    root->left=solve(inorder,inst,inroot-1,preorder,prest+1,prest+leftnum,inmap);
-    root->right=solve(inorder,inroot+1,inend,preorder,prest+leftnum+1,prend,inmap);
-
-    return root;
-   }
-
-  
-
-    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        int n=inorder.size();
-        int m=preorder.size();
-        map<int,int> inmap;
-        for(int i=0;i<n;i++){
-            inmap[inorder[i]]=i;
+   
+    TreeNode* solve(vector<int> &preorder,int prest, int prend, vector<int> &inorder,int inst, int inend ,map<int,int> &inmap){
+        if(prest > prend || inst > inend){
+            return NULL;
         }
 
-        return solve(inorder,0,n-1,preorder,0,m-1,inmap);
+        TreeNode* root=new TreeNode(preorder[prest]);
+
+        int inroot=inmap[root->val];
+        int lefnum=inroot-inst;
+
+        root->left=solve(preorder,prest+1,prest+lefnum,inorder,inst,inroot-1,inmap);
+        root->right=solve(preorder,prest+lefnum+1,prend,inorder,inroot+1,inend,inmap);
+
+        return root;
+    }
+
+    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
+        int n=preorder.size();
+        int m=inorder.size();
+        map<int,int> inmap;
+        for (int i = 0; i < m; i++) {
+          inmap[inorder[i]] = i;
+        }
+
+        return solve(preorder,0,n-1,inorder,0,m-1,inmap);
+
         
     }
 };
