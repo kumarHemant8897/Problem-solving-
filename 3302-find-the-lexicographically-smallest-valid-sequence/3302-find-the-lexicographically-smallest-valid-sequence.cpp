@@ -4,15 +4,12 @@ public:
         int n = word1.size();
         int m = word2.size();
 
-        vector<int> ans(m);
-
-        
+        vector<int> ans(m); 
         vector<int> last(m, -1);
 
         int i = n - 1;
         int j = m - 1;
 
-        
         while (i >= 0 && j >= 0) {
             if (word1[i] == word2[j]) {
                 last[j] = i;
