@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2707-extra-characters-in-a-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2707-extra-characters-in-a-string) |
 | [2742-painting-the-walls](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2742-painting-the-walls) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3660-jump-game-ix) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3340-check-balanced-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3340-check-balanced-string) |
 | [3407-substring-matching-pattern](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3407-substring-matching-pattern) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2540-minimum-common-value) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -837,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3523-make-array-non-decreasing](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3523-make-array-non-decreasing) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
