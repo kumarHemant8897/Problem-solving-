@@ -1,18 +1,22 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
+        int n=nums.size();
         vector<int> ans;
+        sort(nums.begin(),nums.end());
 
-        for(int i = 0; i < nums.size(); ){
-            if(i + 1 < nums.size() && nums[i] == nums[i+1]){
-                i += 2;  
+        for(int i=0;i<n;i++){
+            if( i + 1 < n && nums[i] == nums[i+1]){
+                i++;
             }
             else{
                 ans.push_back(nums[i]);
-                i++;
+                
             }
+
         }
+
         return ans;
+        
     }
 };
