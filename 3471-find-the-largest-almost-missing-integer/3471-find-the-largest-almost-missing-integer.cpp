@@ -11,8 +11,7 @@ public:
 
                 bool already = false;
 
-                // Check if nums[j] already appeared
-                // in the current subarray
+                
                 for (int p = i; p < j; p++) {
                     if (nums[p] == nums[j]) {
                         already = true;
