@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1405-longest-happy-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1405-longest-happy-string) |
 | [1903-largest-odd-number-in-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2351-first-letter-to-appear-twice](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2351-first-letter-to-appear-twice) |
@@ -722,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2119-a-number-after-a-double-reversal](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2119-a-number-after-a-double-reversal) |
@@ -856,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2126-destroying-asteroids) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -1480,6 +1483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1927-sum-game) |
 ## DP on Trees
 |  |
 | ------- |
