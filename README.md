@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1914-cyclically-rotating-a-grid) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1872-stone-game-viii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2707-extra-characters-in-a-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2707-extra-characters-in-a-string) |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1927-sum-game) |
@@ -908,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1872-stone-game-viii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2574-left-and-right-sum-differences](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kumarHemant8897/Problem-solving-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1483,6 +1487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1927-sum-game) |
 ## DP on Trees
 |  |
@@ -1492,6 +1497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
@@ -1504,6 +1510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1872-stone-game-viii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
