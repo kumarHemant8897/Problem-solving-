@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0887-super-egg-drop) |
 | [0907-sum-of-subarray-minimums](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0940-distinct-subsequences-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0983-minimum-cost-for-tickets) |
 | [1048-longest-string-chain](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1143-longest-common-subsequence) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0767-reorganize-string) |
+| [0940-distinct-subsequences-ii](https://github.com/kumarHemant8897/Problem-solving-/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
