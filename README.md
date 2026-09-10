@@ -1130,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1932-merge-bsts-to-create-single-bst](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -1186,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1932-merge-bsts-to-create-single-bst](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -1250,6 +1252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1631-path-with-minimum-effort) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1992-find-all-groups-of-farmland](https://github.com/kumarHemant8897/Problem-solving-/tree/master/1992-find-all-groups-of-farmland) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/kumarHemant8897/Problem-solving-/tree/master/2596-check-knight-tour-configuration) |
