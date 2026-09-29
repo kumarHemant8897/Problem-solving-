@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> gardenNoAdj(int n, vector<vector<int>>& paths) {
 
-        vector<vector<int>> adj(n);
+       vector<vector<int>> adj(n);
         for(auto it: paths){
             int u=it[0] - 1;
             int v=it[1] - 1;
@@ -24,6 +24,7 @@ public:
             for(int color=1;color<=4;color++){
                 if(!used[color]){
                     ans[i]=color;
+                    break;
                 }
             }
         }
