@@ -9,7 +9,9 @@ public:
             string s=strs[i];
             sort(s.begin(),s.end());
             // vector<string> v;
+
             m[s].push_back(strs[i]);
+            
         }
         for(auto it:m){
             ans.push_back(it.second);
